@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Threading;
 
 namespace more_variable_manipulation
 {
@@ -8,7 +9,9 @@ namespace more_variable_manipulation
         {
 
             //Her kaldes vores metode
-            nameLength();
+            //nameLength();
+            firstNameLastName();
+
         }
 
         //Vores metode
@@ -51,6 +54,30 @@ namespace more_variable_manipulation
             //Til slut kan man vælge at lukke sin console ned igen, ved at trykke på "any key"
             Console.WriteLine("");
             Console.WriteLine("Done!"); Console.ReadKey();
+        }
+
+        static void firstNameLastName()
+        {
+            String name = "Henrik Johansen";
+            String lastName = "";
+            int numKey = name.Length;
+
+            for (int pos = 0; name.Substring(pos, 1) != " "; pos = pos + 1)
+            {
+                Console.Write(name.Substring(pos, 1));
+            }
+
+
+            int lastPos = name.Length - 1;
+
+            for (int pos = name.Length - 1; name.Substring(pos, 1) != " "; pos = pos - 1)
+            {
+                lastName = name.Substring(pos, 1) + lastName;
+
+
+            }
+            Thread.Sleep(500);
+            Console.Write(" " + lastName);
         }
     }
 }
