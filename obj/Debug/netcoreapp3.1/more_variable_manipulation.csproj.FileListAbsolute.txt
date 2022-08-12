@@ -1,0 +1,14 @@
+C:\Users\Jonas\source\repos\more_variable_manipulation\more_variable_manipulation\bin\Debug\netcoreapp3.1\more_variable_manipulation.exe
+C:\Users\Jonas\source\repos\more_variable_manipulation\more_variable_manipulation\bin\Debug\netcoreapp3.1\more_variable_manipulation.deps.json
+C:\Users\Jonas\source\repos\more_variable_manipulation\more_variable_manipulation\bin\Debug\netcoreapp3.1\more_variable_manipulation.runtimeconfig.json
+C:\Users\Jonas\source\repos\more_variable_manipulation\more_variable_manipulation\bin\Debug\netcoreapp3.1\more_variable_manipulation.runtimeconfig.dev.json
+C:\Users\Jonas\source\repos\more_variable_manipulation\more_variable_manipulation\bin\Debug\netcoreapp3.1\more_variable_manipulation.dll
+C:\Users\Jonas\source\repos\more_variable_manipulation\more_variable_manipulation\bin\Debug\netcoreapp3.1\more_variable_manipulation.pdb
+C:\Users\Jonas\source\repos\more_variable_manipulation\more_variable_manipulation\obj\Debug\netcoreapp3.1\more_variable_manipulation.csproj.AssemblyReference.cache
+C:\Users\Jonas\source\repos\more_variable_manipulation\more_variable_manipulation\obj\Debug\netcoreapp3.1\more_variable_manipulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonas\source\repos\more_variable_manipulation\more_variable_manipulation\obj\Debug\netcoreapp3.1\more_variable_manipulation.AssemblyInfoInputs.cache
+C:\Users\Jonas\source\repos\more_variable_manipulation\more_variable_manipulation\obj\Debug\netcoreapp3.1\more_variable_manipulation.AssemblyInfo.cs
+C:\Users\Jonas\source\repos\more_variable_manipulation\more_variable_manipulation\obj\Debug\netcoreapp3.1\more_variable_manipulation.csproj.CoreCompileInputs.cache
+C:\Users\Jonas\source\repos\more_variable_manipulation\more_variable_manipulation\obj\Debug\netcoreapp3.1\more_variable_manipulation.dll
+C:\Users\Jonas\source\repos\more_variable_manipulation\more_variable_manipulation\obj\Debug\netcoreapp3.1\more_variable_manipulation.pdb
+C:\Users\Jonas\source\repos\more_variable_manipulation\more_variable_manipulation\obj\Debug\netcoreapp3.1\more_variable_manipulation.genruntimeconfig.cache
