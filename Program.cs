@@ -12,18 +12,22 @@ namespace more_variable_manipulation
 
         static void nameLength()
         {
+            //Her defineres vores variable "name"
+            String name = "Jens Ole Hansen.";
 
-            String navn = "Jens Ole Hansen";
-            int antalTegn = navn.Length;
-            //Console.WriteLine("Der er {0} tegn i variabler", antalTegn);
-            //Console.WriteLine("Formatet er {0}", navn.Substring(0,4));
+            //Her defineres en variable, som bruges til at vise antal charactere i vores string "name"
+            int charAmmount = name.Length;
 
-           
-            
-            for (int pos = 0; navn.Substring(pos, 1) != " "; pos = pos +1)
+            //Her udskriver vi vores antalTegn variable
+            Console.WriteLine("Der er {0} tegn i variabler", charAmmount);
+            Console.WriteLine("Formatet er {0}", name.Substring(0, 4));
+
+            for (int pos = 0; name.Substring(pos, 1) != " "; pos = pos + 1)
             {
-                Console.Write(navn.Substring(pos, 1));
+
+                Console.Write(name.Substring(pos, 1));
             }
+
             Console.WriteLine("");
             Console.WriteLine("Done!"); Console.ReadKey();
         }
